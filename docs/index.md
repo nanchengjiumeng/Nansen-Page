@@ -7,10 +7,10 @@ hero:
   tagline: "一只程序🦍的随手网络记录"
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;Ï">
-  <a href="/grammar-series/" style="flex: 1; text-align: center;">
-    <img src="/images/grammar-1/title.png" alt="半个月构建语法体系" style="width: 100%; border-radius: 12px;" />
+<div class="home-grid">
+  <a href="/grammar-series/" class="home-grid-item">
+    <img src="/images/grammar-1/title.png" alt="半个月构建语法体系" />
   </a>
-  <div style="flex: 1;"></div>
-  <div style="flex: 1;"></div>
+  <div class="home-grid-item placeholder"></div>
+  <div class="home-grid-item placeholder"></div>
 </div>
