@@ -3,22 +3,14 @@
 layout: home
 
 hero:
-  name: "Nansen's Page"
-  # text: "A Programmer’s Web Log"
-  tagline: "Weblog of a Programmer: Just Finding Something to Log"
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  name: "南城的网络小站"
+  tagline: "一只程序🦍的随手网络记录"
 ---
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;Ï">
+  <a href="/grammar-series/" style="flex: 1; text-align: center;">
+    <img src="/images/grammar-1/title.png" alt="半个月构建语法体系" style="width: 100%; border-radius: 12px;" />
+  </a>
+  <div style="flex: 1;"></div>
+  <div style="flex: 1;"></div>
+</div>

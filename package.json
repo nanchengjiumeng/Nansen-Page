@@ -1,10 +1,11 @@
 {
   "scripts": {
-    "docs:dev": "vitepress dev docs",
+    "docs:dev": "vitepress dev docs --port 40001",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs --port 40001"
   },
   "devDependencies": {
+    "unplugin-imagemin": "^0.7.0",
     "vitepress": "^1.6.4"
   }
 }
