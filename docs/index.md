@@ -11,6 +11,8 @@ hero:
   <a href="/grammar-series/" class="home-grid-item">
     <img src="/images/grammar-1/title.png" alt="半个月构建语法体系" />
   </a>
-  <div class="home-grid-item placeholder"></div>
+  <a href="/new-concept-english/" class="home-grid-item">
+    <img src="/images/new-concept-english/title.png" alt="新概念英语第一册" />
+  </a>
   <div class="home-grid-item placeholder"></div>
 </div>

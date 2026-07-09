@@ -163,6 +163,31 @@
   min-height: 100px;
 }
 
+.home-grid-item.simple-card {
+  display: flex;
+  min-height: 140px;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease,
+    background 0.2s ease;
+}
+
+.home-grid-item.simple-card:hover {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  transform: translateY(-2px);
+}
+
 /**
  * Responsive: Mobile
  * -------------------------------------------------------------------------- */
@@ -183,3 +208,97 @@
   }
 }
 
+/**
+ * New Concept English lesson pages
+ * -------------------------------------------------------------------------- */
+
+.vp-doc[class*="_new-concept-english_"] {
+  max-width: 840px;
+  padding-bottom: 118px;
+}
+
+.vp-doc[class*="_new-concept-english_"] h1 {
+  letter-spacing: -0.03em;
+}
+
+.vp-doc[class*="_new-concept-english_"] h2 {
+  margin-top: 42px;
+  padding-top: 22px;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc[class*="_new-concept-english_"] h3 {
+  margin-top: 28px;
+}
+
+.vp-doc[class*="_new-concept-english_"] .nce-translation {
+  margin: 8px 0;
+}
+
+.vp-doc[class*="_new-concept-english_"] .nce-translation summary {
+  cursor: pointer;
+  display: inline;
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  line-height: 1.7;
+}
+
+.vp-doc[class*="_new-concept-english_"] .nce-translation summary::marker {
+  color: var(--vp-c-text-3);
+}
+
+.vp-doc[class*="_new-concept-english_"] .nce-translation[open] summary {
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc[class*="_new-concept-english_"] .nce-translation p {
+  margin: 4px 0 0 18px;
+  padding: 0;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc[class*="_new-concept-english_"] .nce-lesson-translation summary {
+  display: block;
+}
+
+.vp-doc[class*="_new-concept-english_"] .nce-lesson-line {
+  display: block;
+  margin: 6px 0;
+}
+
+.vp-doc[class*="_new-concept-english_"] td .nce-translation {
+  margin: 0;
+}
+
+.vp-doc[class*="_new-concept-english_"] blockquote {
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 0 12px 12px 0;
+  background: color-mix(in srgb, var(--vp-c-brand-soft), transparent 30%);
+  padding: 12px 16px;
+}
+
+.vp-doc[class*="_new-concept-english_"] blockquote p {
+  margin: 7px 0;
+}
+
+.vp-doc[class*="_new-concept-english_"] table {
+  display: table;
+  width: 100%;
+  font-size: 15px;
+}
+
+@media (max-width: 640px) {
+  .vp-doc[class*="_new-concept-english_"] {
+    padding-bottom: 136px;
+  }
+
+  .vp-doc[class*="_new-concept-english_"] table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .vp-doc[class*="_new-concept-english_"] blockquote {
+    padding: 10px 12px;
+  }
+}

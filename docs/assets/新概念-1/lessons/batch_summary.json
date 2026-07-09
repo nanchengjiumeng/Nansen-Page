@@ -1,0 +1,579 @@
+[
+  {
+    "lesson": 1,
+    "title": "Excuse me!",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson001_Excuse me!/Lesson001_Excuse me!.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson001_Excuse me!/Lesson001_Excuse me!.txt",
+    "ok": true
+  },
+  {
+    "lesson": 3,
+    "title": "Sorry sir.",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson003_Sorry sir./Lesson003_Sorry sir..mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson003_Sorry sir./Lesson003_Sorry sir..txt",
+    "ok": true
+  },
+  {
+    "lesson": 5,
+    "title": "Nice to meet you",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson005_Nice to meet you/Lesson005_Nice to meet you.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson005_Nice to meet you/Lesson005_Nice to meet you.txt",
+    "ok": true
+  },
+  {
+    "lesson": 7,
+    "title": "Are you a teacher?",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson007_Are you a teacher_/Lesson007_Are you a teacher_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson007_Are you a teacher_/Lesson007_Are you a teacher_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 9,
+    "title": "How are you today?",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson009_How are you today_/Lesson009_How are you today_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson009_How are you today_/Lesson009_How are you today_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 11,
+    "title": "Is this your shirt?",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson011_Is this your shirt_/Lesson011_Is this your shirt_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson011_Is this your shirt_/Lesson011_Is this your shirt_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 13,
+    "title": "A new dress",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson013_A new dress/Lesson013_A new dress.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson013_A new dress/Lesson013_A new dress.txt",
+    "ok": true
+  },
+  {
+    "lesson": 15,
+    "title": "Your passport, please",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson015_Your passport, please/Lesson015_Your passport, please.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson015_Your passport, please/Lesson015_Your passport, please.txt",
+    "ok": true
+  },
+  {
+    "lesson": 17,
+    "title": "How do you do",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson017_How do you do/Lesson017_How do you do.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson017_How do you do/Lesson017_How do you do.txt",
+    "ok": true
+  },
+  {
+    "lesson": 19,
+    "title": "Tired and thirsty",
+    "audioSrc": null,
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson019_Tired and thirsty/Lesson019_Tired and thirsty.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson019_Tired and thirsty/Lesson019_Tired and thirsty.txt",
+    "ok": true
+  },
+  {
+    "lesson": 21,
+    "title": "Which book?",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/194caafbbeefdcd.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson021_Which book_/Lesson021_Which book_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson021_Which book_/Lesson021_Which book_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 23,
+    "title": "Which glasses?",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/195bffacabdceed.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson023_Which glasses_/Lesson023_Which glasses_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson023_Which glasses_/Lesson023_Which glasses_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 25,
+    "title": "Mrs. Smith’s kitchen",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/196abdcbedfafce.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson025_Mrs. Smith’s kitchen/Lesson025_Mrs. Smith’s kitchen.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson025_Mrs. Smith’s kitchen/Lesson025_Mrs. Smith’s kitchen.txt",
+    "ok": true
+  },
+  {
+    "lesson": 27,
+    "title": "Mrs. Smith’s living room",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/197adbbfedfacce.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson027_Mrs. Smith’s living room/Lesson027_Mrs. Smith’s living room.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson027_Mrs. Smith’s living room/Lesson027_Mrs. Smith’s living room.txt",
+    "ok": true
+  },
+  {
+    "lesson": 29,
+    "title": "Come in, Amy.",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/198ddeeabcabcff.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson029_Come in, Amy./Lesson029_Come in, Amy..mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson029_Come in, Amy./Lesson029_Come in, Amy..txt",
+    "ok": true
+  },
+  {
+    "lesson": 31,
+    "title": "Where’s Sally?",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/199befebcfaddca.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson031_Where’s Sally_/Lesson031_Where’s Sally_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson031_Where’s Sally_/Lesson031_Where’s Sally_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 33,
+    "title": "A fine day",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/200ecbfebddafca.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson033_A fine day/Lesson033_A fine day.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson033_A fine day/Lesson033_A fine day.txt",
+    "ok": true
+  },
+  {
+    "lesson": 35,
+    "title": "Our village",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/201cebddfebafac.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson035_Our village/Lesson035_Our village.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson035_Our village/Lesson035_Our village.txt",
+    "ok": true
+  },
+  {
+    "lesson": 37,
+    "title": "Making a bookcase",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/202ecbbacddafef.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson037_Making a bookcase/Lesson037_Making a bookcase.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson037_Making a bookcase/Lesson037_Making a bookcase.txt",
+    "ok": true
+  },
+  {
+    "lesson": 39,
+    "title": "Don’t drop it!",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/203dbbfcfeadcae.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson039_Don’t drop it!/Lesson039_Don’t drop it!.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson039_Don’t drop it!/Lesson039_Don’t drop it!.txt",
+    "ok": true
+  },
+  {
+    "lesson": 41,
+    "title": "Penny’s bag",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/204cefdaaedbbfc.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson041_Penny’s bag/Lesson041_Penny’s bag.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson041_Penny’s bag/Lesson041_Penny’s bag.txt",
+    "ok": true
+  },
+  {
+    "lesson": 43,
+    "title": "Hurry up!",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/205ebdcacbffead.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson043_Hurry up!/Lesson043_Hurry up!.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson043_Hurry up!/Lesson043_Hurry up!.txt",
+    "ok": true
+  },
+  {
+    "lesson": 45,
+    "title": "The boss's letter",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/206beaaffcddcbe.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson045_The boss's letter/Lesson045_The boss's letter.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson045_The boss's letter/Lesson045_The boss's letter.txt",
+    "ok": true
+  },
+  {
+    "lesson": 47,
+    "title": "A cup of coffee",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/207cebdfdabefac.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson047_A cup of coffee/Lesson047_A cup of coffee.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson047_A cup of coffee/Lesson047_A cup of coffee.txt",
+    "ok": true
+  },
+  {
+    "lesson": 49,
+    "title": "At the butcher’s",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/208ebafbdceadcf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson049_At the butcher’s/Lesson049_At the butcher’s.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson049_At the butcher’s/Lesson049_At the butcher’s.txt",
+    "ok": true
+  },
+  {
+    "lesson": 51,
+    "title": "A pleasant climate",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/209fbcdafcdaeeb.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson051_A pleasant climate/Lesson051_A pleasant climate.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson051_A pleasant climate/Lesson051_A pleasant climate.txt",
+    "ok": true
+  },
+  {
+    "lesson": 53,
+    "title": "An interesting climate",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/210bbdeaacedfcf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson053_An interesting climate/Lesson053_An interesting climate.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson053_An interesting climate/Lesson053_An interesting climate.txt",
+    "ok": true
+  },
+  {
+    "lesson": 55,
+    "title": "The Sawyer family",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/211cfabadcebefd.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson055_The Sawyer family/Lesson055_The Sawyer family.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson055_The Sawyer family/Lesson055_The Sawyer family.txt",
+    "ok": true
+  },
+  {
+    "lesson": 57,
+    "title": "An unusual day",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/212efebfdbaadcc.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson057_An unusual day/Lesson057_An unusual day.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson057_An unusual day/Lesson057_An unusual day.txt",
+    "ok": true
+  },
+  {
+    "lesson": 59,
+    "title": "Is that all?",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/213bccfdbdaefea.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson059_Is that all_/Lesson059_Is that all_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson059_Is that all_/Lesson059_Is that all_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 61,
+    "title": "A bad cold",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/214ddfcfabceaeb.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson061_A bad cold/Lesson061_A bad cold.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson061_A bad cold/Lesson061_A bad cold.txt",
+    "ok": true
+  },
+  {
+    "lesson": 63,
+    "title": "Thank you , doctor.",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/215dceafcabbdfe.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson063_Thank you , doctor./Lesson063_Thank you , doctor..mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson063_Thank you , doctor./Lesson063_Thank you , doctor..txt",
+    "ok": true
+  },
+  {
+    "lesson": 65,
+    "title": "Not a baby",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/216befcadbadefc.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson065_Not a baby/Lesson065_Not a baby.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson065_Not a baby/Lesson065_Not a baby.txt",
+    "ok": true
+  },
+  {
+    "lesson": 67,
+    "title": "The weekend",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/217afcfeeddbbca.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson067_The weekend/Lesson067_The weekend.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson067_The weekend/Lesson067_The weekend.txt",
+    "ok": true
+  },
+  {
+    "lesson": 69,
+    "title": "The car race",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/218dcdbaecffbea.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson069_The car race/Lesson069_The car race.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson069_The car race/Lesson069_The car race.txt",
+    "ok": true
+  },
+  {
+    "lesson": 71,
+    "title": "He’s awful",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/219dcbfbaacedef.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson071_He’s awful/Lesson071_He’s awful.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson071_He’s awful/Lesson071_He’s awful.txt",
+    "ok": true
+  },
+  {
+    "lesson": 73,
+    "title": "The way to King Street",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/220bfcecaaddebf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson073_The way to King Street/Lesson073_The way to King Street.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson073_The way to King Street/Lesson073_The way to King Street.txt",
+    "ok": true
+  },
+  {
+    "lesson": 75,
+    "title": "Uncomfortable shoes",
+    "audioSrc": null,
+    "audioFile": null,
+    "textFile": null,
+    "ok": false,
+    "error": "apiRequestContext.get: socket hang up\nCall log:\n  - → GET http://sound.tingroom.com/qsbdcword/J/JlGxP.mp3\n    - user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n    - Accept-Language: zh-CN,zh;q=0.9,en;q=0.8\n    - Referer: https://www.tingroom.com/\n    - cookie: Hm_lvt_adaf29565debc85c07b8d3c36c148a6b=1783587235; HMACCOUNT=1B50A1F4A869099E; Hm_lpvt_adaf29565debc85c07b8d3c36c148a6b=1783587855\n"
+  },
+  {
+    "lesson": 77,
+    "title": "Terrible toothache",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/222adeffacdbbec.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson077_Terrible toothache/Lesson077_Terrible toothache.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson077_Terrible toothache/Lesson077_Terrible toothache.txt",
+    "ok": true
+  },
+  {
+    "lesson": 79,
+    "title": "Peggy’s shopping-list",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/223accbedafdbfe.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson079_Peggy’s shopping-list/Lesson079_Peggy’s shopping-list.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson079_Peggy’s shopping-list/Lesson079_Peggy’s shopping-list.txt",
+    "ok": true
+  },
+  {
+    "lesson": 81,
+    "title": "Roast beef and potato.",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/224cfadabdbeecf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson081_Roast beef and potato./Lesson081_Roast beef and potato..mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson081_Roast beef and potato./Lesson081_Roast beef and potato..txt",
+    "ok": true
+  },
+  {
+    "lesson": 83,
+    "title": "Going on a holiday",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/225bacdefebfadc.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson083_Going on a holiday/Lesson083_Going on a holiday.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson083_Going on a holiday/Lesson083_Going on a holiday.txt",
+    "ok": true
+  },
+  {
+    "lesson": 85,
+    "title": "Paris in the Spring",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/226acddfbeebfca.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson085_Paris in the Spring/Lesson085_Paris in the Spring.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson085_Paris in the Spring/Lesson085_Paris in the Spring.txt",
+    "ok": true
+  },
+  {
+    "lesson": 87,
+    "title": "A car crash",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/227fdefecbbcaad.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson087_A car crash/Lesson087_A car crash.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson087_A car crash/Lesson087_A car crash.txt",
+    "ok": true
+  },
+  {
+    "lesson": 89,
+    "title": "For sale",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/228defacfbecabd.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson089_For sale/Lesson089_For sale.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson089_For sale/Lesson089_For sale.txt",
+    "ok": true
+  },
+  {
+    "lesson": 91,
+    "title": "Poor West",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/229bfcfeecaddba.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson091_Poor West/Lesson091_Poor West.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson091_Poor West/Lesson091_Poor West.txt",
+    "ok": true
+  },
+  {
+    "lesson": 93,
+    "title": "Our new neighbor",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/230ddbffacaceeb.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson093_Our new neighbor/Lesson093_Our new neighbor.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson093_Our new neighbor/Lesson093_Our new neighbor.txt",
+    "ok": true
+  },
+  {
+    "lesson": 95,
+    "title": "Ticket, please.",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/231faeabcfcddbe.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson095_Ticket, please./Lesson095_Ticket, please..mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson095_Ticket, please./Lesson095_Ticket, please..txt",
+    "ok": true
+  },
+  {
+    "lesson": 97,
+    "title": "A small blue case",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/232eeadaffbccdb.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson097_A small blue case/Lesson097_A small blue case.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson097_A small blue case/Lesson097_A small blue case.txt",
+    "ok": true
+  },
+  {
+    "lesson": 99,
+    "title": "Ow!",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/233bbcdacffaeed.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson099_Ow!/Lesson099_Ow!.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson099_Ow!/Lesson099_Ow!.txt",
+    "ok": true
+  },
+  {
+    "lesson": 101,
+    "title": "A card from Jimmy",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/234dceaacbefdfb.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson101_A card from Jimmy/Lesson101_A card from Jimmy.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson101_A card from Jimmy/Lesson101_A card from Jimmy.txt",
+    "ok": true
+  },
+  {
+    "lesson": 103,
+    "title": "The Intelligence test",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/235ebedcabcfadf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson103_The Intelligence test/Lesson103_The Intelligence test.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson103_The Intelligence test/Lesson103_The Intelligence test.txt",
+    "ok": true
+  },
+  {
+    "lesson": 105,
+    "title": "Full of mistakes",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/236fafbebdcdcea.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson105_Full of mistakes/Lesson105_Full of mistakes.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson105_Full of mistakes/Lesson105_Full of mistakes.txt",
+    "ok": true
+  },
+  {
+    "lesson": 107,
+    "title": "It’s too small",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/237eeacbcfddfab.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson107_It’s too small/Lesson107_It’s too small.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson107_It’s too small/Lesson107_It’s too small.txt",
+    "ok": true
+  },
+  {
+    "lesson": 109,
+    "title": "A good idea",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/238efcfecdbbaad.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson109_A good idea/Lesson109_A good idea.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson109_A good idea/Lesson109_A good idea.txt",
+    "ok": true
+  },
+  {
+    "lesson": 111,
+    "title": "The most expensive model",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/239beffebcdcdaa.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson111_The most expensive model/Lesson111_The most expensive model.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson111_The most expensive model/Lesson111_The most expensive model.txt",
+    "ok": true
+  },
+  {
+    "lesson": 113,
+    "title": "small change",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/240abbcdeefadfc.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson113_small change/Lesson113_small change.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson113_small change/Lesson113_small change.txt",
+    "ok": true
+  },
+  {
+    "lesson": 115,
+    "title": "Not ….",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/241cdbdaeffebca.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson115_Not …./Lesson115_Not …..mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson115_Not …./Lesson115_Not …..txt",
+    "ok": true
+  },
+  {
+    "lesson": 117,
+    "title": "Tommy’s breakfast",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/242cbdbaacefefd.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson117_Tommy’s breakfast/Lesson117_Tommy’s breakfast.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson117_Tommy’s breakfast/Lesson117_Tommy’s breakfast.txt",
+    "ok": true
+  },
+  {
+    "lesson": 119,
+    "title": "A true story",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/243fccbddabaefe.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson119_A true story/Lesson119_A true story.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson119_A true story/Lesson119_A true story.txt",
+    "ok": true
+  },
+  {
+    "lesson": 121,
+    "title": "The man in the hat",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/244dcdafabbeecf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson121_The man in the hat/Lesson121_The man in the hat.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson121_The man in the hat/Lesson121_The man in the hat.txt",
+    "ok": true
+  },
+  {
+    "lesson": 123,
+    "title": "A trip to Australia",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/245fafddbecceba.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson123_A trip to Australia/Lesson123_A trip to Australia.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson123_A trip to Australia/Lesson123_A trip to Australia.txt",
+    "ok": true
+  },
+  {
+    "lesson": 125,
+    "title": "Tea for two",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/246feddaaecbbfc.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson125_Tea for two/Lesson125_Tea for two.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson125_Tea for two/Lesson125_Tea for two.txt",
+    "ok": true
+  },
+  {
+    "lesson": 127,
+    "title": "A famous actress",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/247ebefaadbfcdc.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson127_A famous actress/Lesson127_A famous actress.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson127_A famous actress/Lesson127_A famous actress.txt",
+    "ok": true
+  },
+  {
+    "lesson": 129,
+    "title": "70 miles an hour",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/248defedafcbbac.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson129_70 miles an hour/Lesson129_70 miles an hour.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson129_70 miles an hour/Lesson129_70 miles an hour.txt",
+    "ok": true
+  },
+  {
+    "lesson": 131,
+    "title": "Don’t be so sure",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/249ececbaddbfaf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson131_Don’t be so sure/Lesson131_Don’t be so sure.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson131_Don’t be so sure/Lesson131_Don’t be so sure.txt",
+    "ok": true
+  },
+  {
+    "lesson": 133,
+    "title": "Sensational news",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/250bacefdabedcf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson133_Sensational news/Lesson133_Sensational news.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson133_Sensational news/Lesson133_Sensational news.txt",
+    "ok": true
+  },
+  {
+    "lesson": 135,
+    "title": "The latest report",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/251faebddecacbf.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson135_The latest report/Lesson135_The latest report.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson135_The latest report/Lesson135_The latest report.txt",
+    "ok": true
+  },
+  {
+    "lesson": 137,
+    "title": "A pleasant dream",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/252edbafabcefcd.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson137_A pleasant dream/Lesson137_A pleasant dream.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson137_A pleasant dream/Lesson137_A pleasant dream.txt",
+    "ok": true
+  },
+  {
+    "lesson": 139,
+    "title": "Is that you, John?",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/253bfbfecdaadec.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson139_Is that you, John_/Lesson139_Is that you, John_.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson139_Is that you, John_/Lesson139_Is that you, John_.txt",
+    "ok": true
+  },
+  {
+    "lesson": 141,
+    "title": "Sally’s first train ride",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/254fcdbceaefdba.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson141_Sally’s first train ride/Lesson141_Sally’s first train ride.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson141_Sally’s first train ride/Lesson141_Sally’s first train ride.txt",
+    "ok": true
+  },
+  {
+    "lesson": 143,
+    "title": "A walk through the woods",
+    "audioSrc": "http://sound2.yywz123.com/english96ad/lesson/nce1/sound/255abacfedcdfeb.mp3",
+    "audioFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson143_A walk through the woods/Lesson143_A walk through the woods.mp3",
+    "textFile": "/Users/ricardo/Documents/github/tingroom-data/output/lessons/Lesson143_A walk through the woods/Lesson143_A walk through the woods.txt",
+    "ok": true
+  }
+]

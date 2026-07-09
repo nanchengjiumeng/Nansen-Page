@@ -5,6 +5,7 @@ import DefaultTheme from 'vitepress/theme'
 import GrammarLegend from './components/GrammarLegend.vue'
 import GrammarHelper from './components/GrammarHelper.vue'
 import TitleCopy from './components/TitleCopy.vue'
+import NceAudioPlayer from './components/NceAudioPlayer.vue'
 import './style.css'
 import './grammar.css'
 
@@ -21,5 +22,6 @@ export default {
     app.component('GrammarLegend', GrammarLegend)
     app.component('GrammarHelper', GrammarHelper)
     app.component('TitleCopy', TitleCopy)
+    app.component('NceAudioPlayer', NceAudioPlayer)
   }
 } satisfies Theme
