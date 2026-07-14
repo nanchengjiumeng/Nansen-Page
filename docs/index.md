@@ -14,5 +14,7 @@ hero:
   <a href="/new-concept-english/" class="home-grid-item">
     <img src="/images/new-concept-english/title.png" alt="新概念英语第一册" />
   </a>
-  <div class="home-grid-item placeholder"></div>
+  <a href="/words/" class="home-grid-item">
+    <img src="/images/words/title.png" alt="词汇" />
+  </a>
 </div>
