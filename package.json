@@ -3,10 +3,13 @@
     "docs:dev": "vitepress dev docs --port 40001",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs --port 40001",
-    "trim:nce1-ads": "bash scripts/trim-new-concept-ads.sh"
+    "trim:nce1-ads": "bash scripts/trim-new-concept-ads.sh",
+    "deploy": "npm run docs:build && wrangler deploy",
+    "preview": "npm run docs:build && wrangler dev"
   },
   "devDependencies": {
     "unplugin-imagemin": "^0.7.0",
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "wrangler": "^4.112.0"
   }
 }
