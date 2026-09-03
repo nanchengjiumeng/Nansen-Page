@@ -17,4 +17,7 @@ hero:
   <a href="/words/" class="home-grid-item">
     <img src="/images/words/title.png" alt="词汇" />
   </a>
+  <a href="/music/" class="home-grid-item">
+    <img src="/images/music/title.png" alt="音乐：从五线谱开始" />
+  </a>
 </div>

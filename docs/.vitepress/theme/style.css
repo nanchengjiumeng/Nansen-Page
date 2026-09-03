@@ -142,19 +142,18 @@
  * -------------------------------------------------------------------------- */
 
 .home-grid {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 20px;
   margin-top: 40px;
 }
 
 .home-grid-item {
-  flex: 1;
   text-align: center;
 }
 
 .home-grid-item img {
+  display: block;
   width: 100%;
   border-radius: 12px;
 }
@@ -189,13 +188,62 @@
 }
 
 /**
+ * Music article figures
+ * -------------------------------------------------------------------------- */
+
+.vp-doc[class*="_music_"] {
+  max-width: 900px;
+}
+
+.vp-doc[class*="_music_"] .music-figure {
+  margin: 24px 0;
+}
+
+.vp-doc[class*="_music_"] .music-figure-scroll {
+  overflow-x: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: #fffaf0;
+  scrollbar-width: thin;
+}
+
+.vp-doc[class*="_music_"] .music-figure img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+}
+
+.vp-doc[class*="_music_"] .music-figure figcaption {
+  margin-top: 8px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.music-figure-swipe {
+  display: none;
+}
+
+/**
  * Responsive: Mobile
  * -------------------------------------------------------------------------- */
 
 @media (max-width: 639px) {
   /* 首页 grid 手机端纵向排列 */
   .home-grid {
-    flex-direction: column;
+    grid-template-columns: 1fr;
+  }
+
+  .vp-doc[class*="_music_"] .music-figure-scroll img {
+    width: 760px;
+  }
+
+  .music-figure-swipe {
+    display: block;
+    color: var(--vp-c-brand-1);
+    font-weight: 600;
   }
 
   /* 文章中 float: right 的图片手机端取消浮动 */
