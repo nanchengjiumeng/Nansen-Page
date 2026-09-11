@@ -20,4 +20,9 @@ hero:
   <a href="/music/" class="home-grid-item">
     <img src="/images/music/title.png" alt="音乐：从五线谱开始" />
   </a>
+  <a href="/videocut/" class="home-grid-item videocut-home-card">
+    <img src="/images/videocut/malaysia/skybridge.jpg" alt="VideoCut：从视频走进旅行，兰卡威天空之桥" />
+    <span class="videocut-home-title">VideoCut</span>
+    <span class="videocut-home-description">视频里的风景，图文里的旅行</span>
+  </a>
 </div>

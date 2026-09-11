@@ -188,6 +188,78 @@
 }
 
 /**
+ * VideoCut category and article figures
+ * -------------------------------------------------------------------------- */
+
+.videocut-home-card {
+  overflow: hidden;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+}
+
+.videocut-home-card img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 0;
+}
+
+.videocut-home-title {
+  display: block;
+  margin-top: 16px;
+  color: var(--vp-c-text-1);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.videocut-home-description {
+  display: block;
+  margin: 8px 16px 20px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+}
+
+.videocut-home-card:hover,
+.videocut-home-card:focus-visible {
+  border-color: var(--vp-c-brand-1);
+}
+
+.vp-doc .videocut-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin: 24px 0;
+}
+
+.vp-doc .videocut-figure {
+  margin: 24px 0;
+}
+
+.vp-doc .videocut-gallery .videocut-figure {
+  min-width: 0;
+  margin: 0;
+}
+
+.vp-doc .videocut-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.vp-doc .videocut-figure figcaption {
+  margin-top: 8px;
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+@media (max-width: 639px) {
+  .vp-doc .videocut-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+/**
  * Music article figures
  * -------------------------------------------------------------------------- */
 
