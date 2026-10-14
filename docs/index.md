@@ -25,7 +25,7 @@ hero:
     <span class="videocut-home-title">VideoCut</span>
     <span class="videocut-home-description">视频里的风景，图文里的旅行</span>
   </a>
-  <a href="/live-tracking/" class="home-grid-item simple-card">
-    实时追踪
+  <a href="/live-tracking/" class="home-grid-item">
+    <img src="/images/live-tracking/title.png" alt="实时追踪：更新记录，持续关注" />
   </a>
 </div>
