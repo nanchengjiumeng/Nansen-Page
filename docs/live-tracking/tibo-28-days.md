@@ -1,7 +1,7 @@
 ---
 title: Tibo 28 天更新与 Reset 日期追踪
-description: 按日整理 Tibo 的 Codex 与 ChatGPT Work 28 天更新承诺，记录每项更新及完整 reset、banked reset 的日期，更新至 Day 9。
-date: 2026-10-14
+description: 按日整理 Tibo 的 Codex 与 ChatGPT Work 28 天更新承诺，记录每项更新及完整 reset、banked reset 的日期，更新至 Day 16。
+date: 2026-10-21
 outline: [2, 3]
 ---
 
@@ -9,11 +9,11 @@ outline: [2, 3]
 
 # Tibo 28 天更新与 Reset 日期追踪
 
-更新日期：2026 年 10 月 14 日 · 追踪对象：[Tibo @thsottiaux](https://x.com/thsottiaux) · 已记录 Day 1–9
+更新日期：2026 年 10 月 21 日 · 追踪对象：[Tibo @thsottiaux](https://x.com/thsottiaux) · 已记录 Day 1–16
 
 Tibo（Thibault Sottiaux，@thsottiaux）的 28 天承诺，从 2026 年 10 月 5 日的 Day 1 开始：每天交付一项对多数 Codex／Work 用户有用的明显改进，或完整重置使用额度。
 
-截至北京时间 2026 年 10 月 14 日，已整理 Day 1–9：**7 天有产品更新，4 天涉及 reset，两者有重叠；仅发 reset 的是 Day 6、Day 8。** Day 10 尚在进行，暂不计为未完成。
+截至北京时间 2026 年 10 月 21 日，已整理 Day 1–16：**11 天有产品更新，7 天涉及 reset，两者有重叠；仅发 reset 的是 Day 6、Day 8、Day 10、Day 13、Day 15。** 最新一项是 Day 16 的缓存改进；Day 17 及之后尚未纳入本次记录，不计为未完成。
 
 挑战日期按美国太平洋时间（PT）排列，reset 表同时给出北京时间。
 
@@ -85,11 +85,47 @@ Tibo 于美西 10 月 4 日发布承诺，核心是“明显改进”或“完�
 
 **桌面端状态存储优化。** ChatGPT 与 Codex 桌面应用优化磁盘上的状态存储方式，预计这部分占用减少 60%，回应重度用户磁盘空间不足的反馈。60% 指状态存储部分，并非整个应用或整块硬盘。[原帖](https://x.com/thsottiaux/status/2110151780478927344)
 
+### Day 10 美西 10 月 14 日
+
+**当天交付为完整 reset。** Tibo 发布 Day 10 Reset，随后表示两小时内落地，并于北京时间 10 月 15 日 14:28 确认完成。[宣布帖](https://x.com/thsottiaux/status/2110595484180214059) · [进度帖](https://x.com/thsottiaux/status/2110595554036400151) · [完成帖](https://x.com/thsottiaux/status/2110618732666257557)
+
+### Day 11 美西 10 月 15 日
+
+**减少模型容量不足错误，并支持自动恢复。** Tibo 表示已通过一系列调整和增加算力，显著降低模型容量不足提示的出现频率；遇到此类错误时，任务应能在稍后自行继续，减少一直阻塞的情况。原帖未公布具体下降比例。[原帖](https://x.com/thsottiaux/status/2110750421367287996)
+
+### Day 12 美西 10 月 16 日
+
+- **提高有效使用量。** Codex 与 Work 在子代理之间复用上下文、延长上下文缓存时间，并优化请求路由以提高缓存命中率。原帖未给出提升比例；这里描述的是使用效率改善，不是一次额度 reset。[原帖](https://x.com/thsottiaux/status/2111244596131111253)
+
+- **GPT-6 Astra Pro 提速与并行代理。** 同一线程补充了 Pro 升级：响应更快、插件与工具使用改善，多名代理可并行处理任务，用户可以查看各代理进展及已完成的工作。所引用的 OpenAI 公告称面向 Chat 标签页中的 Pro 用户开放。[Tibo 补充](https://x.com/thsottiaux/status/2111244957851984181) · [OpenAI 公告](https://x.com/OpenAI/status/2111192259073094035)
+
+- **Dots 可放到主屏幕。** Tibo 引用设计师 Gavin Nelson 的公告，并提醒更新应用；帖文未列出具体平台、最低版本或套餐范围。[Tibo 补充](https://x.com/thsottiaux/status/2111245052513259606) · [原公告](https://x.com/Gavmn/status/2111136119945396436)
+
+同日补充：**ChatGPT Space 支持幻灯片。** 这条回复位于另一个 Space 介绍线程，称前一天已加入 slides 支持，当时向 Pro、Business、Enterprise 开放。按公告日期列在这里，不将实际上线日期改写为 Day 12。[原帖](https://x.com/thsottiaux/status/2111249810502353152)
+
+### Day 13 美西 10 月 17 日
+
+**当天交付为完整 reset。** Tibo 发布 Day 13 重置公告，并回复称当天结束前落地；北京时间 10 月 18 日 05:12 的后续帖写明已完成。该完成帖在可读镜像中未显示直接父帖关系，结合此前公告及社区记录归入此次 reset。[宣布帖](https://x.com/thsottiaux/status/2111492673890824348) · [时间说明](https://x.com/thsottiaux/status/2111492738025959922) · [完成帖](https://x.com/thsottiaux/status/2111566005684289735)
+
+### Day 14 美西 10 月 18 日
+
+**桌面端支持编辑此前消息。** 可在同一线程内编辑先前发送的消息。原帖将其定位为日常体验改善，未说明具体操作系统、最低版本，以及编辑后如何处理后续消息。[原帖](https://x.com/thsottiaux/status/2111990254408434095)
+
+### Day 15 美西 10 月 19 日
+
+**当天交付为 reset。** Tibo 在 Day 15 后续帖表示仍在准备更新，并宣布 reset。该帖发表于北京时间 10 月 20 日 14:33；本次未找到单独的完成确认帖，因此统计为已宣布的一次完整 reset，完成时间保留待核实。[原帖](https://x.com/thsottiaux/status/2112432076767289678)
+
+### Day 16 美西 10 月 20 日
+
+**Codex 与 Work 登录用户的持续缓存。** Tibo 表示缓存将长期保留，回到旧会话或间隔数小时后继续时可命中缓存，减少重新处理已有上下文的消耗。这是其针对登录用户的产品公告，不代表对话可以无限增长。[原帖](https://x.com/thsottiaux/status/2112712984644784534)
+
+**API 新增 12 小时提示缓存选项。** OpenAI 官方更新日志确认，API 可选择 12 小时缓存，让共享指令、工具和上下文在间隔数小时的请求中复用。API 的 12 小时选项与上述 Codex／Work 公告分别记录。[官方更新日志](https://developers.openai.com/api/docs/changelog)
+
 ## Reset 日期统计
 
 ### 仅发 reset 的日期
 
-以当天编号挑战帖及其后续确认为口径，目前有 **2 天以 reset 作为当天交付**：美西 **10 月 10 日（Day 6）**、**10 月 12 日（Day 8）**。两次完整重置的完成确认分别发布于北京时间 **10 月 11 日**、**10 月 13 日**。
+以当天编号挑战帖及其后续确认为口径，目前有 **5 天以 reset 作为当天交付**：美西 **10 月 10 日（Day 6）**、**10 月 12 日（Day 8）**、**10 月 14 日（Day 10）**、**10 月 17 日（Day 13）**、**10 月 19 日（Day 15）**。其中 Day 15 已宣布，单独完成确认待核实。
 
 Day 2 已发四项更新，随后因投票追加 reset；Day 3 有产品更新，并发放 banked reset。这两天不归入“没有发布更新”的日期。
 
@@ -101,11 +137,14 @@ Day 2 已发四项更新，随后因投票追加 reset；Day 3 有产品更新�
 | Day 3 10 月 7 日 | Banked reset | 10 月 8 日 03:19 | 10 月 8 日 11:44 | 有更新并发备用重置，[发放帖](https://x.com/thsottiaux/status/2107913674593644711) · [到账帖](https://x.com/thsottiaux/status/2108040921044639779) |
 | Day 6 10 月 10 日 | 完整 reset | 10 月 11 日 06:15 | 10 月 11 日 12:01 | 仅发 reset，[宣布帖](https://x.com/thsottiaux/status/2109045220411351517) · [完成帖](https://x.com/thsottiaux/status/2109132167112782291) |
 | Day 8 10 月 12 日 | 完整 reset | 10 月 13 日 09:03 | 10 月 13 日 13:06 | 仅发 reset，[宣布帖](https://x.com/thsottiaux/status/2109812216212099456) · [完成帖](https://x.com/thsottiaux/status/2109873287853707513) |
+| Day 10 10 月 14 日 | 完整 reset | 10 月 15 日 12:55 | 10 月 15 日 14:28 | 仅发 reset，[宣布帖](https://x.com/thsottiaux/status/2110595484180214059) · [完成帖](https://x.com/thsottiaux/status/2110618732666257557) |
+| Day 13 10 月 17 日 | 完整 reset | 10 月 18 日 00:20 | 10 月 18 日 05:12 | 仅发 reset，完成帖归属结合上下文判断，[宣布帖](https://x.com/thsottiaux/status/2111492673890824348) · [完成帖](https://x.com/thsottiaux/status/2111566005684289735) |
+| Day 15 10 月 19 日 | 完整 reset（已宣布） | 10 月 20 日 14:33 | 单独完成确认待核实 | 仅发 reset，[宣布帖](https://x.com/thsottiaux/status/2112432076767289678) |
 
-**合计：4 个涉及 reset 的挑战日，其中完整 reset 3 次、banked reset 1 次；仅发 reset 2 天。** 宣布与完成确认属于同一事件，不重复计数。
+**合计：7 个涉及 reset 的挑战日，其中完整 reset 6 次（含 Day 15 已宣布、单独完成确认待核实的 1 次）、banked reset 1 次；仅发 reset 5 天。** 宣布与完成确认属于同一事件，不重复计数。
 
 ## 追踪口径
 
 按 Tibo 帖文中的 Day 编号归档，避免跨时区发布导致错算；没有编号的同日公告列为补充。产品更新与 reset 可同时发生。未结束或暂未确认的日期保留为待核实，不自动算失败。
 
-原帖正文及时间经公开帖子镜像读取，并与社区记录交叉核对；X 原站在本次读取中返回访问限制。统计反映公开宣布及完成确认，不核验个人账户到账状态。辅助记录：[Codex Resets](https://codex-resets.com/tibo-28) · [Codexy](https://codexy.fyi/) · [Tibo 28 天更新看板](https://tibo-28.hdj.me/)。
+本次于北京时间 2026 年 10 月 21 日补核 Day 10–16，原帖正文及时间经 FxTwitter 公开帖子镜像读取，并与社区记录交叉核对；X 原站在本次读取中返回访问限制。API 缓存更新另核对 OpenAI 官方更新日志。统计反映公开宣布及完成确认，不核验个人账户到账状态；待核实项在正文和表格中单独标明。辅助记录：[Codex Resets](https://codex-resets.com/tibo-28) · [Codexy](https://codexy.fyi/) · [Tibo 28 天更新看板](https://tibo-28.hdj.me/)。
