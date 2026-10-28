@@ -15,8 +15,8 @@ description: 按日期记录产品更新和公开承诺，整理每次发布的�
 
 ### [Tibo 28 天更新与 Reset 日期追踪](./tibo-28-days.md)
 
-2026 年 10 月 21 日更新 · Codex / ChatGPT Work · Day 1–16
+2026 年 10 月 28 日更新 · Codex / ChatGPT Work · Day 1–23
 
-每天一项明显改进，或完整重置使用额度。已补齐至 Day 16 的缓存改进：目前 11 天有更新、7 天涉及 reset，其中仅发 reset 的是 Day 6、8、10、13、15；Day 15 的单独完成确认待核实。
+每天一项明显改进，或完整重置使用额度。已补入 CLI 改进、GPT-6.1 Terra 和最新 reset：目前 14 天提及产品更新、12 天涉及 reset，其中仅发 reset 9 天；Day 20、23 已确认完成，其余待核实项见正文。Day 24 仍在进行。
 
 [阅读全文](./tibo-28-days.md)
